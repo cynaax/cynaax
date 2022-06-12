@@ -6,4 +6,4 @@ Currently learning webdev on the side for fun, [My website](https://cynaax.neoci
 
 Cynaax#6158
 
-![a](https://komarev.com/ghpvc/?cynaax)
+![](https://komarev.com/ghpvc/?cynaax)
